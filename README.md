@@ -1,4 +1,4 @@
-# Deployed Smart Contract for 
+# Deployed Smart Contracts for 
 # Demo of Real-world Asset Tokenization
 
 ```
