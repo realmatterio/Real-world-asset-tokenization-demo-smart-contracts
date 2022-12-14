@@ -1,3 +1,6 @@
+# Deployed Smart Contract for 
+# Demo of Real-world Asset Tokenization
+
 ```
   ############################################
   .__ .___.__..     .  ..__..___..___..___.__   
@@ -13,10 +16,6 @@
 
               www.realmatter.io
 ```
-
-
-# Deployed Smart Contract for 
-# Demo of Real-world Asset Tokenization
 
 ## Artwork Tokenization Application Contract
 
